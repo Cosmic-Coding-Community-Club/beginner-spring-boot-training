@@ -6,12 +6,12 @@
 <br />
 <div align="center">
 
-![Logo](etc/images/kotlin.png)
+![Logo](etc/images/spring_boot_logo.png)
 
-<h1 align="center">Essential Kotlin Course</h1>
+<h1 align="center">Beginner Spring Boot Training</h1>
   <p align="center">
-    Kotlin training course of the essential concepts.
-    <br />
+    Spring Boot Training of the basics concepts in order to start application.
+    <br/>
   </p>
 </div>
 
@@ -21,16 +21,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -44,32 +36,22 @@
 
 ## About The Project
 
-Course for beginners and students that reviews the essential concepts and syntax of the Kotlin language.
+This training is for beginners and students that reviews the basic concepts of the Spring Boot Applications.
 
-#### Program - What you will learn in this course?
+#### Program - What you will learn in this training?
 
-* Basic data types
-* Types parsing and casting
-* Nullable types
-* Collections
-* Functions
-* Named arguments and Defaults
-* Lambdas
-* Conditionals
-* Exceptions
-* Loops
-* Classes
+* Practice 1: IoC and dependencies injection
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-
 ## Getting Started
 
-This course is a series of exercises to get you familiar with the Kotlin Syntax and your basic concepts.
-Each exercise is created as a failing unit test (red) and your job is to make it pass (green).
+This training is a series of practices to get you familiar with the Spring Boot Applications and your basic concepts.
+
+For each practice exists an "INSTRUCTIONS.md" file that explain the goals.
+
+Also, there is a branch that contains practice and other branch that contains the solutions,
+e.g. for practice 1 exists "tech/practice-1" and "tech/practice-1-solutions".
 
 #### How to build and run tests
 
@@ -89,9 +71,6 @@ You can also build the project and run all tests in the terminal:
 ```
 ./gradlew test
 ```
-
-**NOTE: The solutions, that is, the exercises solved with the green unit tests, are in the branch named "
-tech/solutions"**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,8 +106,8 @@ Jordi Jiménez Guil - cosmic.coding.community.club@gmail.com
 
 The following resources may be helpful in your learning:
 
-* [Official Kotlin docs](https://kotlinlang.org/docs/home.html)
-* [Official Kotlin Android Courses](https://developer.android.com/courses)
-* [Official Online Play Kotlin](https://play.kotlinlang.org/)
+* [Official Web Spring Framework](https://spring.io/)
+* [Official code starter Spring](https://start.spring.io/)
+* [Official Spring Reference Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
