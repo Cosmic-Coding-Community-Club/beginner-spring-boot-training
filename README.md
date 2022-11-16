@@ -26,7 +26,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#learning-resources">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -50,8 +50,9 @@ This training is a series of practices to get you familiar with the Spring Boot 
 
 For each practice exists an "INSTRUCTIONS.md" file that explain the goals.
 
-Also, there is a branch that contains practice and other branch that contains the solutions,
-e.g. for practice 1 exists "tech/practice-1" and "tech/practice-1-solutions".
+Also, there is a branch that contains practice and other branch that contains the solutions.
+
+For example, for the practice 1 exists "tech/practice-1" and "tech/practice-1-solutions".
 
 #### How to build and run tests
 
@@ -99,15 +100,15 @@ Distributed under the APACHE License. See `LICENSE-2.0.txt` for more information
 
 ## Contact
 
-Jordi Jiménez Guil - cosmic.coding.community.club@gmail.com
+Jordi Jiménez Guil - info@cosmiccodingcommunityclub.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Learning resources
 
 The following resources may be helpful in your learning:
 
-* [Official Web Spring Framework](https://spring.io/)
-* [Official code starter Spring](https://start.spring.io/)
-* [Official Spring Reference Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+* [Official Spring Framework web](https://spring.io/)
+* [Official Spring code starter](https://start.spring.io/)
+* [Official Spring Boot reference docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
