@@ -41,6 +41,7 @@ This training is for beginners and students that reviews the basic concepts of t
 #### Program - What you will learn in this training?
 
 * Practice 1: IoC and dependencies injection
+* Practice 2: Configurations of properties
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
