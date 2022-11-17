@@ -1,0 +1,4 @@
+settings:
+  training:
+      isForBeginners: true
+      daysDuration: 2
