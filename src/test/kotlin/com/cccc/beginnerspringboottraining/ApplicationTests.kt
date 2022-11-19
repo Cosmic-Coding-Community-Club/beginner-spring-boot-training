@@ -1,10 +1,10 @@
 package com.cccc.beginnerspringboottraining
 
-import com.cccc.beginnerspringboottraining.domain.pokemon.model.Pokemon
-import com.cccc.beginnerspringboottraining.domain.pokemon.repository.PokemonRepository
-import com.cccc.beginnerspringboottraining.infrastructure.pokemon.controller.PokemonController
-import com.cccc.beginnerspringboottraining.infrastructure.pokemon.controller.PokemonDto
-import com.cccc.beginnerspringboottraining.infrastructure.pokemon.mapper.PokemonMapper
+import com.cccc.beginnerspringboottraining.practice3.domain.pokemon.model.Pokemon
+import com.cccc.beginnerspringboottraining.practice3.domain.pokemon.repository.PokemonRepository
+import com.cccc.beginnerspringboottraining.practice3.infrastructure.pokemon.controller.PokemonController
+import com.cccc.beginnerspringboottraining.practice3.infrastructure.pokemon.controller.PokemonDto
+import com.cccc.beginnerspringboottraining.practice3.infrastructure.pokemon.mapper.PokemonMapper
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.ninjasquad.springmockk.MockkBean
 import io.mockk.every

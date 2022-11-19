@@ -1,4 +1,4 @@
-package com.cccc.beginnerspringboottraining.domain.pokemon.model
+package com.cccc.beginnerspringboottraining.practice3.domain.pokemon.model
 
 data class Pokemon(
     val name: String,
