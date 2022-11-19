@@ -42,6 +42,7 @@ This training is for beginners and students that reviews the basic concepts of t
 
 * Practice 1: IoC and dependencies injection
 * Practice 2: Configurations of properties
+* Practice 3: Pokemon Simple CRUD restfull API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,5 +112,6 @@ The following resources may be helpful in your learning:
 * [Official Spring Framework web](https://spring.io/)
 * [Official Spring code starter](https://start.spring.io/)
 * [Official Spring Boot reference docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+* [Restfull API convention reference docs](https://restfulapi.net/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
