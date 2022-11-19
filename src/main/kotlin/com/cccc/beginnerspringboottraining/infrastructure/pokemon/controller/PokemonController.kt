@@ -1,7 +1,8 @@
-package com.cccc.beginnerspringboottraining.infrastructure.pokemon
+package com.cccc.beginnerspringboottraining.infrastructure.pokemon.controller
 
-import com.cccc.beginnerspringboottraining.domain.pokemon.Pokemon
-import com.cccc.beginnerspringboottraining.domain.pokemon.PokemonRepository
+import com.cccc.beginnerspringboottraining.domain.pokemon.model.Pokemon
+import com.cccc.beginnerspringboottraining.domain.pokemon.repository.PokemonRepository
+import com.cccc.beginnerspringboottraining.infrastructure.pokemon.mapper.PokemonMapper
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.HttpStatus.CREATED
 import org.springframework.http.MediaType.APPLICATION_JSON_VALUE

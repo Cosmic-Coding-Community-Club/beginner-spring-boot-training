@@ -1,6 +1,7 @@
-package com.cccc.beginnerspringboottraining.infrastructure.pokemon
+package com.cccc.beginnerspringboottraining.infrastructure.pokemon.mapper
 
-import com.cccc.beginnerspringboottraining.domain.pokemon.Pokemon
+import com.cccc.beginnerspringboottraining.domain.pokemon.model.Pokemon
+import com.cccc.beginnerspringboottraining.infrastructure.pokemon.controller.PokemonDto
 
 class PokemonMapper {
     

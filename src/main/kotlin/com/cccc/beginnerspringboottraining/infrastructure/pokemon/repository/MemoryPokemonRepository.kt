@@ -1,7 +1,8 @@
-package com.cccc.beginnerspringboottraining.infrastructure.pokemon
+package com.cccc.beginnerspringboottraining.infrastructure.pokemon.repository
 
-import com.cccc.beginnerspringboottraining.domain.pokemon.Pokemon
-import com.cccc.beginnerspringboottraining.domain.pokemon.PokemonRepository
+import com.cccc.beginnerspringboottraining.domain.pokemon.model.Pokemon
+import com.cccc.beginnerspringboottraining.domain.pokemon.repository.PokemonRepository
+import com.cccc.beginnerspringboottraining.infrastructure.pokemon.controller.PokemonNotFoundException
 
 class MemoryPokemonRepository : PokemonRepository {
     

@@ -1,4 +1,4 @@
-package com.cccc.beginnerspringboottraining.infrastructure.pokemon
+package com.cccc.beginnerspringboottraining.infrastructure.pokemon.controller
 
 data class PokemonDto(
     val name: String,

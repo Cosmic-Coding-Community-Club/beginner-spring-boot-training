@@ -1,4 +1,4 @@
-package com.cccc.beginnerspringboottraining.infrastructure.pokemon
+package com.cccc.beginnerspringboottraining.infrastructure.pokemon.controller
 
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.ResponseStatus

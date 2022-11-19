@@ -1,7 +1,7 @@
 package com.cccc.beginnerspringboottraining.infrastructure.configuration
 
-import com.cccc.beginnerspringboottraining.infrastructure.pokemon.MemoryPokemonRepository
-import com.cccc.beginnerspringboottraining.infrastructure.pokemon.PokemonMapper
+import com.cccc.beginnerspringboottraining.infrastructure.pokemon.repository.MemoryPokemonRepository
+import com.cccc.beginnerspringboottraining.infrastructure.pokemon.mapper.PokemonMapper
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 

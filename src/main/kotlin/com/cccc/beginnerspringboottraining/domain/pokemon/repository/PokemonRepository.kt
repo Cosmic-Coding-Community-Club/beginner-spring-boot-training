@@ -1,4 +1,6 @@
-package com.cccc.beginnerspringboottraining.domain.pokemon
+package com.cccc.beginnerspringboottraining.domain.pokemon.repository
+
+import com.cccc.beginnerspringboottraining.domain.pokemon.model.Pokemon
 
 interface PokemonRepository {
     
